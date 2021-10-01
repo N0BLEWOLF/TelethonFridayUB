@@ -74,5 +74,8 @@
       "value": "Asia/Kolkata",
       "required": false
     }
+    "DATABASE_URL": {
+      "description": "Url of your Database",
+      "value": ""
   }
 }
